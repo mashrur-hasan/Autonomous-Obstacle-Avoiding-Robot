@@ -51,7 +51,7 @@ The objective was to design, fabricate, and program an autonomous wheeled mobile
 | **Power Converter** | LM2596 DC-DC Step-Down Buck Module | High-efficiency voltage step-down (12V $\rightarrow$ 5V logic rail) | [View](media/components/lm2596_buck.jpg) |
 | **Actuators** | 2× TT DC Dual-Shaft Gearbox Motors + Wheels | Differential skid-steer locomotion & torque delivery | [View](media/components/tt_gear_motor.jpg) |
 | **Power Source** | 12V Rechargeable Li-ion / Multi-cell Battery Pack | Primary DC bus for motors and onboard electronics | [View](media/components/battery_pack.jpg) |
-| **Chassis** | Laser-cut acrylic dual-plate robot chassis | Structural mounting & caster wheel balance | — |
+| **Chassis** | 2WD Smart Robot Car Chassis Kit | Structural mounting, omni-directional caster, & motor brackets | [View](media/components/chassis.jpg) |
 
 ---
 
@@ -192,6 +192,7 @@ The control algorithm operates as a non-blocking discrete finite state machine r
 │       ├── ir_sensor.jpg
 │       ├── lm2596_buck.jpg
 │       ├── tt_gear_motor.jpg
+│       ├── chassis.jpg
 │       └── battery_pack.jpg
 ├── docs/                               # Schematics and technical documentation
 └── README.md                           # Comprehensive engineering documentation
