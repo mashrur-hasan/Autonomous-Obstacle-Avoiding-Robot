@@ -1,10 +1,10 @@
 <div align="center">
   <b>Personal Portfolio:</b>
-  <a href="https://github.com/bhung-chung/Bangla-Fake-News-Detection">Bangla Fake News Detection</a> |
-  <a href="https://github.com/bhung-chung/Drone-Object-Detection">Drone Object Detection</a> |
-  <a href="https://github.com/bhung-chung/Heart-Disease-Prediction">Heart Disease Prediction</a> |
-  <a href="https://github.com/bhung-chung/Wooden-Planetary-Gear">Planetary Gear System</a> |
-  <a href="https://github.com/bhung-chung/Autonomous-Obstacle-Avoiding-Robot">Obstacle Avoiding Robot</a>
+  <a href="https://github.com/mashrur-hasan/Bangla-Fake-News-Detection">Bangla Fake News Detection</a> |
+  <a href="https://github.com/mashrur-hasan/Drone-Object-Detection">Drone Object Detection</a> |
+  <a href="https://github.com/mashrur-hasan/Heart-Disease-Prediction">Heart Disease Prediction</a> |
+  <a href="https://github.com/mashrur-hasan/Wooden-Planetary-Gear">Planetary Gear System</a> |
+  <a href="https://github.com/mashrur-hasan/Autonomous-Obstacle-Avoiding-Robot">Obstacle Avoiding Robot</a>
 </div><br>
 
 # Autonomous Obstacle Avoiding Mobile Robot
@@ -167,7 +167,7 @@ The control algorithm operates as a non-blocking discrete finite state machine r
 ### Flashing Procedure
 1. Clone this repository:
    ```bash
-   git clone https://github.com/bhung-chung/Autonomous-Obstacle-Avoiding-Robot.git
+   git clone https://github.com/mashrur-hasan/Autonomous-Obstacle-Avoiding-Robot.git
    cd Autonomous-Obstacle-Avoiding-Robot
    ```
 2. Open [`src/obstacle_avoiding_robot.ino`](src/obstacle_avoiding_robot.ino) in the Arduino IDE.
